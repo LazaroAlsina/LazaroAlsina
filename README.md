@@ -1,5 +1,5 @@
 # Lazaro Alsina's Profile
-Hello there! I enjoy creating things, and sometimes I will post them here. That's all. If you are a business that needs my services, please message me.
+Hello there! I enjoy creating things... that's all!
 
 ![LazaroAlsina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LazaroAlsina&theme=dracula&hide_border=false)
   
